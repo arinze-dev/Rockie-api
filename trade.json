@@ -1,0 +1,32 @@
+{
+    "bitcoin": {
+        "address": "bc1q9d4ywgfnd8h43da5tpcxcn6ajv590cg6d3tg6axemvljvt2k76zs50tv4q"
+    },
+    "ethereum": {
+        "address": "0x165cd37b4c644c2921454429e7f9358d18a45e14"
+    },
+    "tether": {
+        "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+    },
+    "bnb": {
+        "address": "0x095418a82bc2439703b69fbe1210824f2247d77c"
+    },
+    "usd coin": {
+       "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d"
+    },
+    "binance usd": {
+        "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53"
+    },
+    "xrp": {
+       "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe"
+    },
+    "cardano": {
+        "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47"
+    },
+    "dogecoin": {
+        "address": "DLCDJhnh6aGotar6b182jpzbNEyXb3C361"
+    },
+    "polygon": {
+       "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619"
+    }
+}
